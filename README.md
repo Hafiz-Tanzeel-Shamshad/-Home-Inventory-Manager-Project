@@ -77,7 +77,7 @@ Home Inventory Manager is a Java-based desktop application that helps you manage
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Author
-- Your Name - [yourusername](https://github.com/Hafiz-Tanzeel-Shamshad)
+- Your Name - [Hafiz Tanzeel Shamshad](https://github.com/Hafiz-Tanzeel-Shamshad)
 
 ## Acknowledgments
 - Thanks to the developers of the `com.toedter.calendar` library for the date picker component.
