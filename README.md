@@ -1,4 +1,4 @@
-# Home Inventory Manager
+# Java Home Inventory Manager
 
 ## Overview
 Home Inventory Manager is a Java-based desktop application that helps you manage and track your home inventory items. It provides a graphical user interface for adding, deleting, and viewing items in your inventory, as well as features for searching, printing, and saving your inventory data.
